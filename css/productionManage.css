@@ -1,0 +1,54 @@
+﻿body {
+
+
+
+
+}
+
+
+button.pdmHpBtn1 {
+    background-color: chocolate;
+    border-radius: 12px;
+    width: 300px;
+    margin-left: 81px;
+    height: 100px;
+    background-color: chocolate;
+    color: black;
+    border: 2px solid #000000;
+}
+
+div.pdmHpTd {
+    width:100%; 
+   /* background-color:aqua;*/ 
+    border-style: solid; 
+    border-color:darkgray;
+    border-radius:5%;
+    align-content:center;
+
+
+}
+button.pdmHpBtn1:hover {
+    opacity: 8;
+    color: black;
+    background-color: green;
+     margin-left: 2px;
+}
+a.pdmhomea1 {
+    margin-left: 80%;
+    color: black;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+div.vl {
+    border-left: 10px double;
+    height: 600px;
+    color: black;
+    padding-block-start: 20px;
+    position: center;
+}
+#pdmBottle {
+    width: 164px;
+    margin-left: 158px;
+    background-color: darkorange
+}
